@@ -1,0 +1,41 @@
+
+
+
+.d-flex{
+  background-color: rgb(38, 35, 123);
+ display: flex;
+ margin-right: 3rem !important;
+ width: 35rem !important;
+}
+
+.btn-outline-success{
+  color: brown !important;
+  font-weight: bolder !important
+}
+.form-control{
+  background-color: blanchedalmond !important;
+  color:cadetblue !important;
+  font-weight: bolder !important;
+}
+
+.openModalBtn{
+margin-right: 3%;
+}
+
+.openModalBtN{
+  margin-right: 4%;
+}
+.question{
+  display: inline-flex;
+  
+  margin-left: 4rem;
+  /* z-index: -1; */
+  
+}
+.fill-form{
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  
+
+}
